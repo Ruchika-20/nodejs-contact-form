@@ -1,7 +1,7 @@
 # Node Contact Form
 Contact form build with Bootstrap and Nodemailer
 
-### Demo
+### Demo page
 [Demo Page](https://rezkyfm.herokuapp.com)
 
 ### Installation
